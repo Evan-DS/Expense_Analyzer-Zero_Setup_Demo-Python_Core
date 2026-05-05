@@ -1,0 +1,6 @@
+[
+  {"date": "2026-01-01", "description": "Starbucks", "amount": -5.75},
+  {"date": "2026-01-02", "description": "Amazon", "amount": -45.20},
+  {"date": "2026-01-03", "description": "Salary", "amount": 1500},
+  {"date": "2026-01-04", "description": "Uber", "amount": -18.90}
+]
